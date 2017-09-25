@@ -1,5 +1,6 @@
 var name = "Susan"
 var height = "70"
+var other_files = require("./other_files")
 
 if (name === "Susan") {
     console.log("The name is correct")
